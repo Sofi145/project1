@@ -1,0 +1,3 @@
+03.12.2021 13:24:18:    Ошибка: Выдано исключение типа "Karpova.Karpova.KarpovaException".
+03.12.2021 13:28:21:    Ошибка: Выдано исключение типа "Karpova.Karpova.KarpovaException".
+01.02.2022 7:29:51:     Ошибка: Выдано исключение типа "Karpova.Karpova.KarpovaException".

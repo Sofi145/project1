@@ -1,0 +1,17 @@
+D:\college\4course\TRPO\trpo\bin\Debug\trpo.exe.config
+D:\college\4course\TRPO\trpo\bin\Debug\trpo.exe
+D:\college\4course\TRPO\trpo\bin\Debug\trpo.pdb
+D:\college\4course\TRPO\trpo\obj\Debug\trpo.csprojAssemblyReference.cache
+D:\college\4course\TRPO\trpo\obj\Debug\trpo.csproj.CoreCompileInputs.cache
+D:\college\4course\TRPO\trpo\obj\Debug\trpo.exe
+D:\college\4course\TRPO\trpo\obj\Debug\trpo.pdb
+D:\college\4course\TRPO\trpo\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\college\4course\TRPO\trpo\obj\Debug\trpo.csproj.CopyComplete
+C:\Users\User\Desktop\трпо\bin\Debug\trpo.exe.config
+C:\Users\User\Desktop\трпо\bin\Debug\trpo.exe
+C:\Users\User\Desktop\трпо\bin\Debug\trpo.pdb
+C:\Users\User\Desktop\трпо\obj\Debug\trpo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\трпо\obj\Debug\trpo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\трпо\obj\Debug\trpo.csproj.CopyComplete
+C:\Users\User\Desktop\трпо\obj\Debug\trpo.exe
+C:\Users\User\Desktop\трпо\obj\Debug\trpo.pdb
